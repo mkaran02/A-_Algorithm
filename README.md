@@ -59,3 +59,5 @@ Feel free to fork the repository and submit pull requests. Contributions are wel
 ## 📬 Contact
 For any issues or suggestions, please create an issue on GitHub or contact me at [your-email@example.com].
 
+## 📝Blog
+https://a-star-algorithm-by-karan.blogspot.com/2025/04/introduction-why-pathfinding-matters.html
