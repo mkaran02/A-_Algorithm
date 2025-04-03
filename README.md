@@ -13,17 +13,17 @@ The **A* (A-Star) Algorithm** is one of the most efficient pathfinding algorithm
 1. Ensure you have **Python 3.x** installed.
 2. Clone this repository using:
    ```bash
-   git clone https://github.com/yourusername/a-star-pathfinding.git
+   git clone https://github.com/mkaran02/A-_Algorithm.git
    ```
 3. Navigate to the project directory:
    ```bash
-   cd a-star-pathfinding
+   cd A-_Algorithm
    ```
 
 ## ▶️ Usage
 Run the Python script to see the A* algorithm in action:
 ```bash
-python a_star.py
+python app.py
 ```
 
 ## 📜 Algorithm Explanation
